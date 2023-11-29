@@ -28,6 +28,11 @@ This is a project of a registration form developed in HTML and CSS. The goal is 
 - **Technologies Used:**
   - HTML / CSS
 
+## Layout
+
+<img src="assets/img/frame-01.png">
+<img src="assets/img/frame-02.png">
+
 
 ## Project Structure
 
